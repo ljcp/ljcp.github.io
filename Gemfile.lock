@@ -196,7 +196,7 @@ DEPENDENCIES
   github-pages (= 140)
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
-  jekyll-theme-leap-day
+  minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
